@@ -1,0 +1,17 @@
+[
+    {
+        "correct": false,
+        "predict_answer": "9.75",
+        "gold_answer": "6"
+    },
+    {
+        "correct": false,
+        "predict_answer": "20.0",
+        "gold_answer": "26"
+    },
+    {
+        "correct": true,
+        "predict_answer": "140.0",
+        "gold_answer": "140"
+    }
+]
